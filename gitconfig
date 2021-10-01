@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = noemie_brancourt@hotmail.com
+	name = Noemie Brancourt
